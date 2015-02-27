@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = FlashResponder::VERSION
   s.authors     = ["Kristian Rasmussen"]
   s.email       = ["kr@iamkristian.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of FlashResponder."
-  s.description = "TODO: Description of FlashResponder."
+  s.homepage    = "github.com/iamkristian/flash_responder"
+  s.summary     = "Sets the flash"
+  s.description = "Will set lash upon create, update, and destroy"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
