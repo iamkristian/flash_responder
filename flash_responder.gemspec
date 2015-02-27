@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = FlashResponder::VERSION
   s.authors     = ["Kristian Rasmussen"]
   s.email       = ["kr@iamkristian.com"]
-  s.homepage    = "github.com/iamkristian/flash_responder"
+  s.homepage    = "http://github.com/iamkristian/flash_responder"
   s.summary     = "Sets the flash"
   s.description = "Will set lash upon create, update, and destroy"
   s.license     = "MIT"
