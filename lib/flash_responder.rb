@@ -2,7 +2,7 @@ require 'action_controller'
 require 'flash_responder/flash'
 
 module FlashResponder
-  class AppResponder < ActionController::Responder
+  class AppResponder < ::ActionController::Responder
     include Flash
   end
 end
